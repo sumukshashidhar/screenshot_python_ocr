@@ -1,0 +1,3 @@
+To specify the language model name, write language shortcut after -/ flag, by
+default it takes English language:
+
